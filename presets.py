@@ -4,7 +4,7 @@ class Presets(object):
     CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> {}\n\n<b>Format:</b> {}\n<b>Size:</b> {}"
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
     ASK_PM_TEXT = "<b>Click the below button</b>"
-    WELCOME_TEXT = "<b>Hi <b>{}</b>\n\n<code>I can help you to get movies in</code> [Kidozkii](https://t.me/Kidozkii). " \
+    WELCOME_TEXT = "<b>Hi <b>{}</b>\n\n<code>I can help you to get movies in</code> <a href='https://t.me/Kidozkii'> Kidozkii</a>." \
                    "<code>Btw, Just Keep this message live Here</code>😉...\n\n" \
                    "<b>I’m created & maintained by </b><a href='https://t.me/MarineBots'> Marine Bots</a>.</b>"
     CLEAN_CHAT_MSG = "⚠️ <b>Deleting all messages..</b>"
